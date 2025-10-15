@@ -31,7 +31,7 @@ An interactive and visually stunning 3D Solar System built using [Three.js](http
 
 ---
 
-### Option 2: Run via Local Server (Recommended)
+### Option 2: Run via Local Server (Recommended) majorproject colab link: https://colab.research.google.com/drive/1FK9ux9gIJQF2tKM5DEKOnjcsvvrJkexl#scrollTo=1XnvspkQ_xGu
 
 #### Using Python (quickest)
 
